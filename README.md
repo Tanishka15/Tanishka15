@@ -1,75 +1,63 @@
+# 👩‍💻 Tanishka Rajratna Randive
 
-# Time Measurement Project
+🎓 **AI & Data Engineering Undergraduate @ IIT Ropar**  
+💡 Passionate about AI, system-level programming, and solving real-world problems through tech  
+🌱 Currently learning: Deep Learning, OS Internals, and Optimization Techniques  
+📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/tanishka-randive-42639b275/) | [GitHub](https://github.com/Tanishka15)
 
-## Overview
+---
 
-This project contains three C programs (`time.c`, `time_pipe.c`, and `time_sharedmemory.c`) that demonstrate different inter-process communication (IPC) methods to measure the time taken to execute a command. The goal is to compare the performance and effectiveness of using basic `fork()`, pipes, and shared memory for inter-process communication, and determine the most efficient method for time measurement.
+## 🔧 Technical Skills
 
-## Files
+- **Languages**: C, C++, Python, JavaScript  
+- **Web Dev**: HTML, CSS, React  
+- **Libraries & Tools**: NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, Keras  
+- **Concepts**: Data Structures & Algorithms, OS, Computer Networks, Machine Learning  
 
-1. **`time.c`**:
-   - The simplest approach, using `fork()` to create a child process that executes a command. The parent process measures the time before and after the execution without any inter-process communication.
-   
-2. **`time_pipe.c`**:
-   - This version adds a pipe to transfer the start time from the child process to the parent process. The parent measures the end time and calculates the difference.
-   
-3. **`time_sharedmemory.c`**:
-   - This implementation uses shared memory to store the start time recorded by the child process. The parent process accesses this shared memory to compute the time elapsed after the command execution.
+---
 
-4. **`Makefile`**:
-   - A makefile is provided to compile each of these C programs. It automates the build process for easier execution.
+## 💻 Notable Projects
 
-### Compilation
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [Memory Management System](https://github.com/Tanishka15/Memory-Management-System-multithreading-) | Simulates virtual memory management with multithreading | C++ |
+| [Image Captioning](https://github.com/Tanishka15/Image-captioning) | Generates captions using CNN + RNN | Python, TensorFlow |
+| [Job Scheduler](https://github.com/Tanishka15/Job-Scheduler) | Visualizer for FCFS, SJF, Priority Scheduling algorithms | C++ |
+| [Sleep Apnea Detection System](https://github.com/Tanishka15/Sleep-apnea-detection-system/tree/main) | Real-time SPO2 and heart rate monitoring with alerting | Python, Web |
+| [Style Recommender (WeForShe)](https://github.com/Tanishka15/Shecoders) | Fashion style suggestions based on body type | JavaScript, HTML, CSS |
 
-To compile the programs, run the following command in the project directory:
+---
 
-```bash
-make
-```
+## 🏆 Achievements
 
-This will generate three executable files: `time`, `time_pipe`, and `time_sharedmemory`.
+- 🥇 **Winner (Girls)** - Zentej Edify Hackathon 2025  
+  Developed an AI surveillance model using OpenCV for real-time motion detection  
+- 🏅 **Myntra HackerRamp: WeForShe** – Phase 2 Qualifier  
+- 🌍 **Do Well Do Good (Share Initiative)** – Case studies on sustainability and environmental impact  
+- 🖥️ **AlgoZenith IICPC Participant** – Summer camp on competitive programming
 
-### Running the Programs
+---
 
-To run any of the programs, use the following syntax:
+## 🤝 Volunteering & Leadership
 
-```bash
-./time <command> [args...]
-```
+- **Autonomous Navigation Coordinator** @ IIT Ropar  
+- **Co-Head** – Inter School Conclave  
+- **Community Mentor** – *Pehchaan Ek Safar*: Tutored 20+ children in core subjects  
+- **Delegate** – State-level MUN  
 
-For example, to measure the time taken to list files using `ls`, you can run:
+---
 
-```bash
-./time ls
-```
+## 🎭 Extra-Curriculars
 
-Repeat similar commands for `time_pipe` and `time_sharedmemory`.
+- 💃 Group Dance Performer at Inter-IIT Cultural Meet 7.0  
+- 🎤 Active in public speaking and cultural exchange forums  
 
-## Comparison of Approaches
+---
 
-1. **Basic Fork (`time.c`)**:
-   - **Description**: This program uses `fork()` to create a child process. The parent process records the start time and waits for the child to complete before recording the end time.
-   - **Pros**: Simple and easy to implement.
-   - **Cons**: Timing can be slightly inaccurate, as the parent measures the time before the child starts executing the command.
+## 📊 Stats & Activity
 
-2. **Pipe (`time_pipe.c`)**:
-   - **Description**: The child records the start time and sends it to the parent via a pipe. The parent calculates the elapsed time once the child finishes.
-   - **Pros**: More accurate, as the child process records the time just before command execution.
-   - **Cons**: Requires setting up and managing the pipe, which adds a small overhead.
+![Tanishka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanishka15&show_icons=true&theme=radical)
 
-3. **Shared Memory (`time_sharedmemory.c`)**:
-   - **Description**: The child writes the start time to a shared memory segment, which the parent reads after the child finishes executing the command.
-   - **Pros**: Efficient and allows for faster data exchange compared to pipes.
-   - **Cons**: Shared memory management can be complex, and the program needs to ensure proper attachment and detachment of memory segments.
+---
 
-## Conclusion
-
-- **Accuracy**: The pipe and shared memory approaches provide more accurate timing compared to the basic `fork()` method, as the child process directly records the start time.
-- **Efficiency**: The shared memory approach is slightly more efficient than using pipes because it avoids the need for data to travel through a pipe buffer. However, shared memory requires more careful management.
-- **Complexity**: The basic `fork()` method is the easiest to implement, while shared memory adds complexity with memory management but improves performance.
-
-
-<!---
-Tanishka15/Tanishka15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+*Let's build a smarter world together — one algorithm at a time.*
