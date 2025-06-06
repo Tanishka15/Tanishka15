@@ -40,10 +40,10 @@
 
 ## 🤝 Volunteering & Leadership
 
+-**Vice President** - ShARE IIT Ropar
 - **Autonomous Navigation Coordinator** @ IIT Ropar  
 - **Co-Head** – Inter School Conclave  
-- **Community Mentor** – *Pehchaan Ek Safar*: Tutored 20+ children in core subjects  
-- **Delegate** – State-level MUN  
+
 
 ---
 
