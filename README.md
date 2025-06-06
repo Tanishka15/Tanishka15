@@ -30,7 +30,7 @@
 
 ## 🏆 Achievements
 
-- 🥇 **Winner (Girls)** - Zentej Edify Hackathon 2025  
+- 🥇 **speacial mention (Girls)** - Zentej Edify Hackathon 2025  
   Developed an AI surveillance model using OpenCV for real-time motion detection  
 - 🏅 **Myntra HackerRamp: WeForShe** – Phase 2 Qualifier  
 - 🌍 **Do Well Do Good (Share Initiative)** – Case studies on sustainability and environmental impact  
