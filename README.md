@@ -1,13 +1,13 @@
-# 👩‍💻 Tanishka Rajratna Randive
+#  Tanishka Rajratna Randive
 
-🎓 **AI & Data Engineering Undergraduate @ IIT Ropar**  
-💡 Passionate about AI, system-level programming, and solving real-world problems through tech  
-🌱 Currently learning: Deep Learning, OS Internals, and Optimization Techniques  
+**AI & Data Engineering Undergraduate @ IIT Ropar**  
+Passionate about AI, system-level programming, and solving real-world problems through tech  
+Currently learning: Deep Learning, OS Internals, and Optimization Techniques  
 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/tanishka-randive-42639b275/) | [GitHub](https://github.com/Tanishka15)
 
 ---
 
-## 🔧 Technical Skills
+##  Technical Skills
 
 - **Languages**: C, C++, Python, JavaScript  
 - **Web Dev**: HTML, CSS, React  
@@ -16,7 +16,7 @@
 
 ---
 
-## 💻 Notable Projects
+##  Notable Projects
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
@@ -28,17 +28,16 @@
 
 ---
 
-## 🏆 Achievements
+##  Achievements
 
-- 🥇 **speacial mention (Girls)** - Zentej Edify Hackathon 2025  
+- **speacial mention (Girls winner)** - Zentej Edify Hackathon 2025  
   Developed an AI surveillance model using OpenCV for real-time motion detection  
-- 🏅 **Myntra HackerRamp: WeForShe** – Phase 2 Qualifier  
-- 🌍 **Do Well Do Good (Share Initiative)** – Case studies on sustainability and environmental impact  
-- 🖥️ **AlgoZenith IICPC Participant** – Summer camp on competitive programming
+- **Myntra HackerRamp: WeForShe** – Phase 2 Qualifier  
+- **AlgoZenith IICPC Participant** – Summer camp on competitive programming
 
 ---
 
-## 🤝 Volunteering & Leadership
+## Volunteering & Leadership
 
 -**Vice President** - ShARE IIT Ropar
 - **Autonomous Navigation Coordinator** @ IIT Ropar  
@@ -47,10 +46,10 @@
 
 ---
 
-## 🎭 Extra-Curriculars
+## Extra-Curriculars
 
-- 💃 Group Dance Performer at Inter-IIT Cultural Meet 7.0  
-- 🎤 Active in public speaking and cultural exchange forums  
+- Group Dance Performer at Inter-IIT Cultural Meet 7.0  
+- Active in public speaking and cultural exchange forums  
 
 ---
 
