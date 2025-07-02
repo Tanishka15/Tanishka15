@@ -18,15 +18,20 @@ Currently learning: Deep Learning, OS Internals, and Optimization Techniques
 
 ##  Notable Projects
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [Memory Management System](https://github.com/Tanishka15/Memory-Management-System-multithreading-) | Simulates virtual memory management with multithreading | C++ |
-| [Image Captioning](https://github.com/Tanishka15/Image-captioning) | Generates captions using CNN + RNN | Python, TensorFlow |
-| [Job Scheduler](https://github.com/Tanishka15/Job-Scheduler) | Visualizer for FCFS, SJF, Priority Scheduling algorithms | C++ |
-| [Sleep Apnea Detection System](https://github.com/Tanishka15/Sleep-apnea-detection-system/tree/main) | Real-time SPO2 and heart rate monitoring with alerting | Python, Web |
-| [Style Recommender (WeForShe)](https://github.com/Tanishka15/Shecoders) | Fashion style suggestions based on body type | JavaScript, HTML, CSS |
+# 🚀 Projects Overview
+
+| Project | Description | Tech Stack | GitHub |
+|---|---|---|---|
+| **Memory Management System** | Simulates virtual memory management, address translation, page hit/miss tracking with multithreading and task concurrency | C++ (POSIX Threads) | [View Repository](https://github.com/Tanishka15/Memory-Management-System-multithreading-) |
+| **Image Captioning** | Generates image captions using deep learning (CNN + RNN) | Python, TensorFlow | [View Repository](https://github.com/Tanishka15/Image-captioning) |
+| **Job Scheduler** | Visual simulator for FCFS, SJF, Priority Scheduling algorithms; includes console simulation and Gantt chart visualization | C++, Python, Matplotlib | [View Repository](https://github.com/Tanishka15/Job-Scheduler) |
+| **Sleep Apnea Detection System** | Real-time SPO2 and heart rate monitoring system with alert notifications for abnormal readings | Python, Web | [View Repository](https://github.com/Tanishka15/Sleep-apnea-detection-system/tree/main) |
+| **Style Recommender (WeForShe)** | AI-powered fashion recommendation system providing style suggestions based on body type | JavaScript, HTML, CSS | [View Repository](https://github.com/Tanishka15/Shecoders) |
+| **AI-Powered Network Intrusion Detection System** | Lightweight ML-based IDS using the UNSW-NB15 dataset with preprocessing, feature selection, SMOTE balancing, and Decision Tree/Random Forest classifiers | Python, Scikit-Learn, Pandas, NumPy | [View Repository](https://github.com/Tanishka15/Network-Intrusion-Detection-System) |
+| **Chat with Your Documents** | Streamlit-based chatbot that allows users to upload and chat with their own documents (PDF, DOCX, TXT) using LangChain and FAISS | Python, Streamlit, LangChain, FAISS, Transformers | [View Repository](https://github.com/Tanishka15/Chat-with-Your-Documents) |
 
 ---
+
 
 ##  Achievements
 
