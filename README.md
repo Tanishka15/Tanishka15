@@ -44,7 +44,7 @@ Currently learning: Deep Learning, OS Internals, and Optimization Techniques
 
 ## Volunteering & Leadership
 
--**Vice President** - ShARE IIT Ropar
+- **Vice President** - ShARE IIT Ropar
 - **Autonomous Navigation Coordinator** @ IIT Ropar  
 - **Co-Head** – Inter School Conclave  
 
