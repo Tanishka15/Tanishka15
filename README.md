@@ -27,8 +27,8 @@ Currently learning: Deep Learning, OS Internals, and Optimization Techniques
 | **Job Scheduler** | Visual simulator for FCFS, SJF, Priority Scheduling algorithms; includes console simulation and Gantt chart visualization | C++, Python, Matplotlib | [View Repository](https://github.com/Tanishka15/Job-Scheduler) |
 | **Sleep Apnea Detection System** | Real-time SPO2 and heart rate monitoring system with alert notifications for abnormal readings | Python, Web | [View Repository](https://github.com/Tanishka15/Sleep-apnea-detection-system/tree/main) |
 | **Style Recommender (WeForShe)** | AI-powered fashion recommendation system providing style suggestions based on body type | JavaScript, HTML, CSS | [View Repository](https://github.com/Tanishka15/Shecoders) |
-| **AI-Powered Network Intrusion Detection System** | Lightweight ML-based IDS using the UNSW-NB15 dataset with preprocessing, feature selection, SMOTE balancing, and Decision Tree/Random Forest classifiers | Python, Scikit-Learn, Pandas, NumPy | [View Repository](https://github.com/Tanishka15/Network-Intrusion-Detection-System) |
-| **Chat with Your Documents** | Streamlit-based chatbot that allows users to upload and chat with their own documents (PDF, DOCX, TXT) using LangChain and FAISS | Python, Streamlit, LangChain, FAISS, Transformers | [View Repository](https://github.com/Tanishka15/Chat-with-Your-Documents) |
+| **AI-Powered Network Intrusion Detection System** | Lightweight ML-based IDS using the UNSW-NB15 dataset with preprocessing, feature selection, SMOTE balancing, and Decision Tree/Random Forest classifiers | Python, Scikit-Learn, Pandas, NumPy | [View Repository](https://github.com/Tanishka15/Lightweight-Network-Intrusion-Detection-System-NIDS-Using-UNSW-NB15-Dataset) |
+| **Chat with Your Documents** | Streamlit-based chatbot that allows users to upload and chat with their own documents (PDF, DOCX, TXT) using LangChain and FAISS | Python, Streamlit, LangChain, FAISS, Transformers | [View Repository](https://github.com/Tanishka15/Streamlit-based_Document_Chatbot) |
 
 ---
 
