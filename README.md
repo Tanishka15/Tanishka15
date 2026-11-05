@@ -70,12 +70,55 @@ Explored LLM-based code generation, formal verification and constraint solving t
 | **[Job Scheduler](https://github.com/Tanishka15/Job-Scheduler)** | A simulator for FCFS, SJF and Priority Scheduling, with console output and Gantt-chart visualizations. | C++, Python, Matplotlib |
 | **[Sleep Apnea Monitoring Prototype](https://github.com/Tanishka15/Sleep-apnea-detection-system/tree/main)** | A prototype for monitoring SpO₂ and heart rate, with alerts for abnormal readings. | Python, Web Technologies |
 
-### Additional Work
+## Recent Projects
 
-- **CNN Quantization:** Applied INT8 post-training quantization to a CIFAR-10 model and evaluated model size, accuracy and CPU inference latency.
-- **AI Learning Agent:** Built a Google Classroom-integrated assistant with retrieval, semantic search and study-plan generation.
-- **SafeSpace:** Built a safety platform with a PHP/MySQL backend and a Node.js/Twilio engine for SOS calls, SMS alerts and location sharing.
+### 🧠 Neuroimaging & CSF Segmentation
+**Python · Deep Learning · Computer Vision · fMRI**
 
+Developing and evaluating computer vision pipelines for cerebrospinal fluid segmentation in brain imaging data as part of my internship at the Mental Health Mapping Lab.
+
+- Apply neural-network methods to identify relevant structures in complex neuroimaging data.
+- Evaluate segmentation performance and investigate prediction errors.
+- Collaborate with an interdisciplinary team on model validation and neuroscience applications.
+
+### ⚡ Efficient CNN Inference with INT8 Quantization
+**Python · PyTorch · INT8 · Model Compression**
+
+Explored the trade-off between model efficiency and prediction quality through post-training quantization of a custom CNN trained on CIFAR-10.
+
+- Applied INT8 quantization without retraining.
+- Compared model size, accuracy and CPU inference latency.
+- Achieved approximately **70% smaller model size** and **35% lower CPU inference latency**, with **under 1% accuracy drop** in project experiments.
+
+### 📚 AI Learning Agent with Google Classroom Integration
+**Python · Flask · Gemini API · ChromaDB · RAG**
+
+Built an educational assistant that connects Google Classroom with retrieval-augmented generation to support learning and study planning.
+
+- Implemented semantic search using ChromaDB.
+- Added personalized study-plan generation.
+- Built a six-step reasoning workflow with reasoning-chain visualization.
+
+### 🛟 SafeSpace — Full-Stack Safety Platform
+**React · Node.js · PHP · MySQL · Twilio · Google OAuth**
+
+Built a platform combining safety resources, wellness features and emergency assistance.
+
+- Developed a PHP/MySQL backend with Google OAuth integration.
+- Built a Node.js emergency engine using Twilio.
+- Integrated automated SOS calls, SMS alerts and live location sharing.
+
+### ✋ Mindful Study Deck
+**React · TensorFlow.js · MediaPipe · Gemini API**
+
+Created an interactive flashcard application combining AI-generated study material with hands-free controls.
+
+- Integrated gesture controls using MediaPipe.
+- Added emotion detection and fatigue monitoring.
+- Used Gemini for automatic flashcard generation.
+- Implemented SM-2 spaced repetition for review scheduling.
+
+---
 ---
 
 ## Achievements
