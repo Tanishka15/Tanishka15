@@ -1,68 +1,106 @@
-#  Tanishka Rajratna Randive
+# Hi, I'm Tanishka Rajratna Randive 👋
 
-**AI & Data Engineering Undergraduate @ IIT Ropar**  
-Passionate about AI, system-level programming, and solving real-world problems through tech  
-Currently learning: Deep Learning, OS Internals, and Optimization Techniques  
-📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/tanishka-randive-42639b275/) | [GitHub](https://github.com/Tanishka15)
+**AI & Data Engineering Undergraduate at IIT Ropar · Class of 2027**  
+**AI Intern at the Mental Health Mapping Lab, Friedrich Schiller University Jena**
 
----
+I work at the intersection of **machine learning, computer vision and software systems**. I enjoy understanding how things work—from memory management and scheduling to neural networks—and turning that understanding into practical applications.
 
-##  Technical Skills
+Currently based in **Jena, Germany**, I’m developing and evaluating neuroimaging pipelines, including cerebrospinal fluid segmentation in fMRI data. My broader interests include efficient inference, backend development and reliable AI systems.
 
-- **Languages**: C, C++, Python, JavaScript  
-- **Web Dev**: HTML, CSS, React  
-- **Libraries & Tools**: NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, Keras  
-- **Concepts**: Data Structures & Algorithms, OS, Computer Networks, Machine Learning  
+- 🔬 **Current work:** Computer vision and model evaluation for neuroimaging
+- 🌱 **Exploring:** Deep learning, OS internals and optimization techniques
+- 🤝 **Open to:** Research collaborations, internships and graduate opportunities in 2027
+- 📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/tanishka-randive-42639b275/) · [GitHub](https://github.com/Tanishka15)
 
 ---
 
-##  Notable Projects
+## Technical Skills
 
-# 🚀 Projects Overview
-
-| Project | Description | Tech Stack | GitHub |
-|---|---|---|---|
-| **Memory Management System** | Simulates virtual memory management, address translation, page hit/miss tracking with multithreading and task concurrency | C++ (POSIX Threads) | [View Repository](https://github.com/Tanishka15/Memory-Management-System-multithreading-) |
-| **Image Captioning** | Generates image captions using deep learning (CNN + RNN) | Python, TensorFlow | [View Repository](https://github.com/Tanishka15/Image-captioning) |
-| **Job Scheduler** | Visual simulator for FCFS, SJF, Priority Scheduling algorithms; includes console simulation and Gantt chart visualization | C++, Python, Matplotlib | [View Repository](https://github.com/Tanishka15/Job-Scheduler) |
-| **Sleep Apnea Detection System** | Real-time SPO2 and heart rate monitoring system with alert notifications for abnormal readings | Python, Web | [View Repository](https://github.com/Tanishka15/Sleep-apnea-detection-system/tree/main) |
-| **Style Recommender (WeForShe)** | AI-powered fashion recommendation system providing style suggestions based on body type | JavaScript, HTML, CSS | [View Repository](https://github.com/Tanishka15/Shecoders) |
-| **AI-Powered Network Intrusion Detection System** | Lightweight ML-based IDS using the UNSW-NB15 dataset with preprocessing, feature selection, SMOTE balancing, and Decision Tree/Random Forest classifiers | Python, Scikit-Learn, Pandas, NumPy | [View Repository](https://github.com/Tanishka15/Lightweight-Network-Intrusion-Detection-System-NIDS-Using-UNSW-NB15-Dataset) |
-| **Chat with Your Documents** | Streamlit-based chatbot that allows users to upload and chat with their own documents (PDF, DOCX, TXT) using LangChain and FAISS | Python, Streamlit, LangChain, FAISS, Transformers | [View Repository](https://github.com/Tanishka15/Streamlit-based_Document_Chatbot) |
-
----
-
-
-##  Achievements
-
-- **speacial mention (Girls winner)** - Zentej Edify Hackathon 2025  
-  Developed an AI surveillance model using OpenCV for real-time motion detection  
-- **Myntra HackerRamp: WeForShe** – Phase 2 Qualifier  
-- **AlgoZenith IICPC Participant** – Summer camp on competitive programming
+| Area | Technologies & Concepts |
+|---|---|
+| **Programming** | Python, C, C++, JavaScript |
+| **Machine Learning & Computer Vision** | PyTorch, TensorFlow, Keras, scikit-learn, OpenCV |
+| **Data Analysis** | NumPy, Pandas, Matplotlib |
+| **LLMs & Retrieval** | RAG, LangChain, FAISS, ChromaDB, Gemini API |
+| **Web & Backend** | Flask, Node.js, React, Streamlit, HTML, CSS |
+| **Databases** | PostgreSQL, MySQL |
+| **Systems & Fundamentals** | Data Structures & Algorithms, Operating Systems, Computer Networks, Multithreading |
+| **Model Efficiency** | INT8 Quantization, Model Compression, CPU Inference Benchmarking |
 
 ---
 
-## Volunteering & Leadership
+## Research
 
-- **Vice President** - ShARE IIT Ropar
-- **Autonomous Navigation Coordinator** @ IIT Ropar  
-- **Co-Head** – Inter School Conclave  
+### AI for Neuroimaging
+**Mental Health Mapping Lab · Friedrich Schiller University Jena**
 
+Developing and evaluating machine learning pipelines for brain imaging analysis, with a focus on CSF segmentation, model performance and validation. Collaborating with an interdisciplinary team working across AI and neuroscience.
+
+### Cache Replacement Policies
+**COEP Technological University**
+
+Designed and implemented **FreqRec**, a hybrid LRU–LFU policy that combines recency and frequency signals for L1 data-cache replacement.
+
+📄 **Publication:** *FreqRec: A Lightweight and Adaptive LFU-LRU Hybrid Policy for Cache Block Replacement* — IEEE CICN 2025  
+[Read the paper](https://doi.org/10.1109/CICN67655.2025.11367833)
+
+### LLMs & Formal Methods
+**University of Illinois Urbana-Champaign · SRSE++ Program**
+
+Explored LLM-based code generation, formal verification and constraint solving through paper reproduction and experimental work with Alloy and Verus.
 
 ---
 
-## Extra-Curriculars
+## Selected Projects
 
-- Group Dance Performer at Inter-IIT Cultural Meet 7.0  
-- Active in public speaking and cultural exchange forums  
+### Machine Learning & AI Applications
+
+| Project | What I Built | Stack |
+|---|---|---|
+| **[Image Captioning](https://github.com/Tanishka15/Image-captioning)** | An image-captioning pipeline using a CNN encoder and an attention-based LSTM decoder. | Python, TensorFlow, Keras |
+| **[Network Intrusion Detection](https://github.com/Tanishka15/Lightweight-Network-Intrusion-Detection-System-NIDS-Using-UNSW-NB15-Dataset)** | An ML pipeline using UNSW-NB15, feature selection, SMOTE and Decision Tree/Random Forest classifiers. | Python, scikit-learn, Pandas, NumPy |
+| **[Chat with Your Documents](https://github.com/Tanishka15/Streamlit-based_Document_Chatbot)** | A chatbot for uploading and querying PDF, DOCX and TXT documents through a Streamlit interface. | Python, Streamlit, LangChain, FAISS, Transformers |
+| **[Style Recommender — WeForShe](https://github.com/Tanishka15/Shecoders)** | A fashion recommendation application offering style suggestions based on body type. | JavaScript, HTML, CSS |
+
+### Systems & Software
+
+| Project | What I Built | Stack |
+|---|---|---|
+| **[Memory Management System](https://github.com/Tanishka15/Memory-Management-System-multithreading-)** | A virtual-memory simulator with address translation, page hit/miss tracking and concurrent tasks. | C++, POSIX Threads |
+| **[Job Scheduler](https://github.com/Tanishka15/Job-Scheduler)** | A simulator for FCFS, SJF and Priority Scheduling, with console output and Gantt-chart visualizations. | C++, Python, Matplotlib |
+| **[Sleep Apnea Monitoring Prototype](https://github.com/Tanishka15/Sleep-apnea-detection-system/tree/main)** | A prototype for monitoring SpO₂ and heart rate, with alerts for abnormal readings. | Python, Web Technologies |
+
+### Additional Work
+
+- **CNN Quantization:** Applied INT8 post-training quantization to a CIFAR-10 model and evaluated model size, accuracy and CPU inference latency.
+- **AI Learning Agent:** Built a Google Classroom-integrated assistant with retrieval, semantic search and study-plan generation.
+- **SafeSpace:** Built a safety platform with a PHP/MySQL backend and a Node.js/Twilio engine for SOS calls, SMS alerts and location sharing.
 
 ---
 
-## 📊 Stats & Activity
+## Achievements
 
-![Tanishka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanishka15&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishka15&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- 🏆 **PeaceOfCode Hackathon** — Winner, AI for Agriculture track
+- 🌟 **Cisco Women in Tech Mentorship** — Selected among the top 0.5% of applicants nationwide
+- 🏅 **Zentej Edify Hackathon 2025** — Special recognition for an AI surveillance project using OpenCV
+- 👗 **Myntra HackerRamp: WeForShe** — Phase 2 qualifier
+- 💻 **AlgoZenith IICPC Summer Camp** — Competitive programming participant
+- 🌍 **WILO International Research Sponsorship** — Support for a six-month research internship in Germany
 
 ---
 
-*Let's build a smarter world together — one algorithm at a time.*
+## Leadership & Community
+
+- **Vice President** — ShARE, IIT Ropar
+- **Autonomous Navigation Coordinator** — Automotive Club, IIT Ropar
+- **Co-Head** — Inter School Conclave, IIT Ropar
+
+Outside technical work, I enjoy dance, public speaking and cultural exchange. I performed in group dance at **Inter-IIT Cultural Meet 7.0**.
+
+---
+
+## Let's Connect
+
+Interested in collaborating on an AI application, a systems project or a research problem? I'd be happy to connect.
+
+[LinkedIn](https://www.linkedin.com/in/tanishka-randive-42639b275/) · [GitHub](https://github.com/Tanishka15)
